@@ -48,5 +48,5 @@ A full security enhancement proposal featuring identity governance improvements,
 
 ## 👤 About This Repo
 
-This is one part of my portfolio. For my background, certifications, and other projects (IAM analytics, audit analytics, project management), visit my [GitHub profile](https://github.com/kamirasherman).
+This is one part of my portfolio. For my background and other projects (IAM analytics, audit analytics, project management), visit my [GitHub profile](https://github.com/kamirasherman).
 
