@@ -4,7 +4,7 @@ Hands-on incident ticketing practice in a ServiceNow Personal Developer Instance
 
 ## Objective
 
-Practice real ITSM ticket workflows rather than just documentation theory — creating, categorizing, triaging by impact/urgency, working, and closing incidents the way a Tier 1 service desk analyst would in ServiceNow, including knowing when to escalate rather than force a resolution.
+Practice real Information Technology Service Management ticket workflows rather than just documentation theory — creating, categorizing, triaging by impact/urgency, working, and closing incidents the way a Tier 1 service desk analyst would in ServiceNow, including knowing when to escalate rather than force a resolution.
 
 ## Tools
 
